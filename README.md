@@ -1,1 +1,1 @@
-# eld-cloud-formation-study
+# Sample to create build and test pipelines 
